@@ -4,9 +4,9 @@
   "description": "",
   "bin":{
 	  "create-app" : "./index.js"
-},
+	},
   "scripts":{
-	  "start":create-app
+	  "start":"./index.js"
   },
   "repository": {
     "type": "git",
