@@ -1,0 +1,23 @@
+{
+  "name": "kepler-create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create":create
+  },
+  "bin": {
+        "create": "index.js",
+   }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triophore/kepler-create.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triophore/kepler-create/issues"
+  },
+  "homepage": "https://github.com/Triophore/kepler-create#readme"
+}
