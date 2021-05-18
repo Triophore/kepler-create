@@ -2,12 +2,7 @@
   "name": "kepler-create",
   "version": "1.0.0",
   "description": "",
-  "bin":{
-	  "create-app" : "index.js"
-	},
-  "scripts":{
-	  "create-app":"create-app"
-  },
+  "bin": "./index.js"
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Triophore/kepler-create.git"
