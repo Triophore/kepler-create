@@ -2,9 +2,11 @@
   "name": "kepler-create",
   "version": "1.0.0",
   "description": "",
-  "bin":{"start" :"./index.js"},
+  "bin":{
+	  "start" : "./index.js"
+},
   "scripts":{
-	  "start":""
+	  "start":"start"
   }
   "repository": {
     "type": "git",
