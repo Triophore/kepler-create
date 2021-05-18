@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "bin":{
-	  "start" : "./index.js"
+	  "create-app" : "./index.js"
 },
   "scripts":{
-	  "start":"start"
+	  "start":"create-app"
   },
   "repository": {
     "type": "git",
