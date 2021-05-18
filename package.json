@@ -6,7 +6,7 @@
 	  "create-app" : "./index.js"
 },
   "scripts":{
-	  "start":"create-app"
+	  "start":create-app
   },
   "repository": {
     "type": "git",
