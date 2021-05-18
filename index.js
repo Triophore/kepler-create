@@ -3,4 +3,4 @@ console.log("Awesome Command");
 process.argv.forEach(function (val, index, array) {
   console.log(index + ': ' + val);
 });
-console.log(process.argv)
+console.log(__dirname)
