@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"create-app"
+    "start":"node index.js"
   },
   "bin": {
         "create-app": "node index.js"
