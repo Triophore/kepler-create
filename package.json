@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "bin":{
-	  "create-app" : "node index.js"
+	  "create-app" : "index.js"
 	},
   "scripts":{
-	  "start":"./index.js"
+	  "create-app":"create-app"
   },
   "repository": {
     "type": "git",
