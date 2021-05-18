@@ -7,7 +7,7 @@
     "create":"create-app"
   },
   "bin": {
-        "create-app": "node index.js",
+        "create-app": "node index.js"
    },
   "repository": {
     "type": "git",
