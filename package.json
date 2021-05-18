@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create":create-app
+    "create":"create-app"
   },
   "bin": {
-        "create-app": "index.js"
+        "create-app": "node index.js"
    },
   "repository": {
     "type": "git",
