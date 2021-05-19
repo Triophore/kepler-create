@@ -2,5 +2,5 @@
 const path = require('path');
 const generator = path.resolve(__dirname, './')
 console.log("Awesome Command");
-console.log(generator);
+console.log(process);
 
