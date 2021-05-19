@@ -2,5 +2,5 @@
 const path = require('path');
 const generator = path.resolve(__dirname, './')
 
-console.log(process.env);
+console.log(generator);
 
